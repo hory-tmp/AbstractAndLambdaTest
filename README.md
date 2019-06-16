@@ -1,1 +1,2 @@
-# AbstractAndLambdaTest
+＃これは何？
+Qiitaに投稿した記事のコード置き場です。
