@@ -1,2 +1,4 @@
-＃これは何？
-Qiitaに投稿した記事のコード置き場です。
+Qiita投稿用ソースコード置き場
+====
+## AbstractAndLambda
+abstractとLambdaの使い方の一例をメモしたようなソースです。
